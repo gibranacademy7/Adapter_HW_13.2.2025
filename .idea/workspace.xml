@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64ee9e02-cc1b-452f-a939-8c0690b0d177" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/Adapter_Ex/adapter_float_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter_Ex/data_holder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter_Ex/factorial_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter_Ex/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorial_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter_Ex/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter_Ex/Diagram_structure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -103,7 +98,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1739518764282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="start">
+      <option name="closed" value="true" />
+      <created>1739520072964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1739520072964</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
