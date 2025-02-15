@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64ee9e02-cc1b-452f-a939-8c0690b0d177" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/Diagram_Explanation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/hamburger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/hamburger_builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64ee9e02-cc1b-452f-a939-8c0690b0d177" name="Changes" comment="start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +113,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1739520314786</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎-00004" summary="start">
+      <option name="closed" value="true" />
+      <created>1739603837255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1739603837255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
