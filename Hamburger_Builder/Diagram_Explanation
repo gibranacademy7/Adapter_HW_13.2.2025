@@ -1,0 +1,68 @@
+# Question:
+
+# Create an abstract builder for building a hamburger (use new classes, not what we did in class).
+# Steps to build a hamburger: add a bun, add vegetables, add a main component (such as: schnitzel,
+meat mix, Beyond, soy pastry), add sauce, add a hot side (such as fries, salad), add packaging, add price.
+# Now create builders for each type of hamburger: crispy chicken burger, Beyond burger, house burger.
+# From the main file, call each of the builders you wrote and create the hamburgers.
+
+#--------------------------------------------------------------------------------------------
+
+### Explanation
+
+# - **`hamburger.py`**: Defines the `Hamburger` class to represent a hamburger with its attributes.
+# - **`hamburger_builder.py`**: Implements the `HamburgerBuilder` class,
+# which provides methods to add components to the hamburger.
+# - **`main.py`**: Contains functions to create specific types of hamburgers using the builder pattern,
+# then prints the constructed hamburgers.
+
+#----------------------------------------------------------------------------------------------------------
+
+# Diagram:
+
++---------------------+
+|     Hamburger       |
++---------------------+
+| - bun: str          |
+| - vegetables: list  |
+| - main_component: str|
+| - sauce: str        |
+| - hot_side: str     |
+| - packaging: str    |
+| - price: float      |
++---------------------+
+| + __init__()        |
+| + __str__()        |
++---------------------+
+
+            ^
+            |
+            |
++---------------------+
+|  HamburgerBuilder   |
++---------------------+
+| - hamburger: Hamburger |
++---------------------+
+| + __init__()        |
+| + add_bun(bun: str) |
+| + add_vegetables(vegetables: list) |
+| + add_main_component(component: str) |
+| + add_sauce(sauce: str) |
+| + add_hot_side(hot_side: str) |
+| + add_packaging(packaging: str) |
+| + add_price(price: float) |
+| + build() -> Hamburger |
++---------------------+
+
+            ^
+            |
+            |
++---------------------+
+|       main          |
++---------------------+
+| + create_crispy_chicken_burger()  |
+| + create_beyond_burger()           |
+| + create_house_burger()            |
+| + main()                           |
++---------------------+
+

@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64ee9e02-cc1b-452f-a939-8c0690b0d177" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/Adapter_Ex/Diagram_structure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/Diagram_Explanation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/hamburger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/hamburger_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamburger_Builder/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gibranacademy7"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gibranacademy7&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gibranacademy7/Adapter_HW_13.2.2025.git",
-    "accountId": "f2c03911-c3af-423b-bbfc-61d70c837d3a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gibranacademy7/Adapter_HW_13.2.2025.git&quot;,
+    &quot;accountId&quot;: &quot;f2c03911-c3af-423b-bbfc-61d70c837d3a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,7 +52,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -106,7 +112,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1739520072964</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎-00003" summary="start">
+      <option name="closed" value="true" />
+      <created>1739520314786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1739520314786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
