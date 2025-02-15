@@ -18,6 +18,63 @@
 # providing defaults where necessary (a random table number between 1-20 if not specified,
 # and default values for name and notes).
 # - The example usage demonstrates how to call the function with various parameters.**
-
-
-
+#-------------------------------------------------------------------------------------------------
+#
+#            +-------------------+
+#            | Start             |
+#            +-------------------+
+#                     |
+#                     v
+#            +-------------------+
+#            | Input Parameters  |
+#            +-------------------+
+#                     |
+#                     v
+#            +-------------------+
+#            | Check if args     |
+#            | is empty          |
+#            +-------------------+
+#                /             \
+#              Yes             No
+#               |              |
+#               v              v
+# +------------------+    +-------------------+
+# | Print Error Msg  |    | Print "Ordered    |
+# | "No dishes..."   |    | Dishes: "         |
+# +------------------+    +-------------------+
+#                                   |
+#                                   v
+#                       +-------------------+
+#                       | Loop through args |
+#                       +-------------------+
+#                                |
+#                                v
+#                       +-------------------+
+#                       | Print Customer    |
+#                       | Requirements      |
+#                       +-------------------+
+#                                |
+#                                v
+#                        +-------------------+
+#                        | Get table_number  |
+#                        +-------------------+
+#                               |
+#                               v
+    #                   +-------------------+
+    #                   |     Get name      |
+    #                   +-------------------+
+    #                           |
+    #                           v
+    #                   +-------------------+
+    #                   | Get special_notes |
+    #                   +-------------------+
+    #                           |
+    #                           v
+    #                   +-------------------+
+    #                   |   Print  Details  |
+    #                   +-------------------+
+    #                           |
+    #                           v
+    #                   +-------------------+
+    #                   |      End          |
+    #                   +-------------------+
